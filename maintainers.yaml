@@ -1,7 +1,6 @@
 # Maintainer roster for Visual Studio Code Kubernetes Tools
 # Documentation: https://github.com/cncf/automation/tree/main/utilities/dot-project
 
-# TODO: Add maintainer GitHub handles
 
 #  Maintainers: Please connect your GitHub handle to your LFID on openprofile.dev to enable automatic access to CNCF resources. The system will use your primary email address for setup.
 maintainers:
@@ -10,5 +9,9 @@ maintainers:
     teams:
       - name: "project-maintainers"
         members:
-          # TODO: Add maintainer handles
-          - github-handle
+          - Tatsinnit
+          - tejhan
+          - bosesuneha
+          - davidgamero
+          - gambtho
+          - squillace
