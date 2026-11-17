@@ -30,7 +30,7 @@ repositories:
 
 website: "https://marketplace.visualstudio.com/items?itemName=ms-kubernetes-tools.vscode-kubernetes-tools"
 
-artwork: "https://landscape.cncf.io/logos/vscodek8stools.svg"
+artwork: "https://github.com/cncf/artwork/tree/main/projects/vs-code-kubernetes-tools"
 
 # TODO: Add ADOPTERS.md if your project tracks adopters
 # adopters:
